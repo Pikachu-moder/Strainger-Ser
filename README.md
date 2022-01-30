@@ -1,4 +1,4 @@
-# Wizard-Ser
+# Stranger Ser
 
 <div align="center">
   <img border-radius: 15px src="Stranger.jpg" width="200" height="200"/>
